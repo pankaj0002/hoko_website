@@ -1,0 +1,55 @@
+.back-2-top{
+    background-color: #292c33;
+    height: 50px;
+    width: 100%;
+}
+.back-2-top{
+    justify-content: center;
+    display: block;
+    text-align: center;
+    color: #111;
+    padding: 15px 0;
+    line-height: 19px;
+    font-size: 13px;
+    color: #fff;
+}
+.back-2-top-top {
+    text-align: center;
+    
+}
+.footer-item-section{
+    background-color: #000;
+    height: auto;
+    padding: 30px 0;
+}
+.footer-list span {
+    color: #ffb100;
+    font-size: 15px;
+    /* padding-bottom: 1px solid #ffb100; */
+}
+.footer-list li{
+    list-style: none;;
+}
+
+.footer-list img{
+    width: 40px;
+}
+.footer-list li a{
+    color: #fff;
+}
+.service-text p{
+    color: #fff;
+}
+
+.footer2{
+    justify-content: center;
+    padding: 6px 0;
+    background-color: #292c33;
+    color: #fff;
+}
+.get-the-app{
+    text-align: center;
+}
+.get-the-app h4{
+    color: #ffb100;
+}

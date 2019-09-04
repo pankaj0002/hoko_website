@@ -1,0 +1,168 @@
+/* font family
+
+font-family: 'Anton', sans-serif;
+*/
+
+.home-main{
+    padding-top: 100px;
+}
+.home-tag-line p{
+    font-size: 30px;
+    font-weight: 200;
+}
+.home-main{
+    text-align: center;
+}
+.android{
+    display: flex;
+}
+.app-store button{
+    margin: 0 10px;
+    padding-top: 0;
+    padding-left: 0px;
+}
+.btn-1{
+    background-color: #fff !important;
+}
+.btn-1 i{
+    color: #000;
+}
+.btn-2{
+    background-color: #000 !important;
+}
+.app-store i{
+    /* color: #fff; */
+    padding: 8px 10px 8px 0px;
+    font-size: 25px;
+}
+.app-store button{
+    /* background-color: #fff !important; */
+    padding: 0px 28px;
+}
+.anroid-text-1{
+    color: #000;
+    line-height: 11px;
+    text-align: left;
+}
+.anroid-text-2{
+    color: white;
+    line-height: 11px;
+    text-align: left;
+}
+.get-it-on{
+font-size: 9px;
+}
+.google-play-text{
+font-size: 13px;
+}
+/* Home section 2 */
+.home-wrapper{
+    justify-content: center;
+    padding: 20px;
+}
+
+
+/* Section -3 */
+.text-container{
+    text-align: center;
+    background-color:#f9f9f9;
+}
+
+.col-text{
+    width: 250px;
+    text-align: center;
+}
+.bg-grey{
+    background-color: #fafafa;
+}
+
+/* section categories images */
+.categories-img img{
+    width: 245px;
+    height: auto;
+}
+.categories-img  span .arrow{
+    width: 80px;
+}
+.categories-img  span .groceries-img{
+    margin-left: 30px;
+}
+.cab{
+    width: 100%;
+}
+
+.one-text{
+   
+    position: relative;
+    font-family: 'Anton';
+    color: #cdcdcd;
+}
+.one-text span {
+    position: absolute;
+    top: 106px;
+    left: 0px;
+    font-size: 62px;
+    color: #000;
+}
+.wrapper-one p{
+    width: 370px;
+    margin: 0 !important;
+
+}
+
+/* hOKO APP SERVICES */
+.hokoapp-services{
+    margin-top: 40px;
+
+}
+.hokoapp-center {
+    justify-content: center;
+    z-index: 9999;
+    position: relative;
+    top: 155px;
+}
+.recharge{
+       margin: -30px 50px
+}
+
+/* section 3 4 5 */
+.text-over-page{
+    background-color: #111;
+    height: auto;
+    width: 100%;
+    padding-top: 15rem;
+}
+.one{
+    font-size: 10rem;
+}
+/* second last section */
+.sec-6-medicine h2{
+    font-size: 8rem;
+    padding-left: 34px;
+    color:#a7a7a7;
+
+}
+.sec-6-medicine p{
+    color: #fff;
+}
+
+.sec-6-medicine{
+   
+    position: relative;
+    font-family: 'Anton';
+    /* color: #000; */
+}
+.sec-6-medicine span {
+    position: absolute;
+    top: 60px;
+    left: -15px;
+    font-size: 45px;
+    color: #f9f9f9;
+}
+.text-over-page{
+    justify-content: center;
+}
+
+.section-p-text p{
+    color: #fff;
+}
